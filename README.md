@@ -1,4 +1,4 @@
-# UET_Lahore_Merit_Calculator
+# UET Lahore Merit 2020 Calculator
 A simple software (Python-Tkinter based GUI) for calculating the Entry Test score for securing admission in UET Lahore.
 It calculates the required score for admission to a particular BSc degree program based upon its 2019-merit. 
 The source of 2019-merit is:
