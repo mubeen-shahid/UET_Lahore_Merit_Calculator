@@ -13,3 +13,7 @@ https://github.com/mubeen-shahid/UET_Lahore_Merit_Calculator/wiki/How-to-use
 
 # CAUTION:
 Code distributed under GNU GPL, hence no warranty or guarrante. The GNU GPL license terms and conditions must be observed during further modifications in the code, and original author (contact@mubeen.info) must be acknowledge as source.
+
+# Please Update Windows Defender if Malware Warnings are shown!!
+The exe file was wrongly detected by Windows Defender as a Malware. The exe was submitted to Microsoft Security Intelligence for malware analysis, and finally the analysis report stated it malware free.
+![Microsoft Security Intelligence - Malware Analysis Report](https://github.com/mubeen-shahid/UET_Lahore_Merit_Calculator/blob/master/MSI_MalwareAnalysisReport.PNG)
